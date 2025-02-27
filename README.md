@@ -17,8 +17,7 @@
 - 🌱 I’m currently learning **GraphQL and Web3**  
 - 👯 I’m looking to collaborate on **Node.js & Open Source Projects**  
 - 💬 Ask me about **JavaScript, APIs, and Backend Development**  
-- 📫 Reach me at **[your email]**  
-- 📝 Check out my [Portfolio](https://your-portfolio-link.com)  
+
 
 
 
