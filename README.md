@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Chase Allen!
 
-<!--
-**chaseallenwork/chaseallenwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Developer | Go Enthusiast | Open Source Contributor**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack:
+- **Languages:** JavaScript (ES6+), TypeScript
+- **Backend:** Node.js, Express.js, NestJS, Golang
+- **Frontend:** React, Next.js, Vue.js  
+- **Database:** MongoDB, PostgreSQL, Firebase, MySQL  
+- **DevOps & Tools:** Docker, Git, GitHub Actions, Vercel, AWS  
+
+---
+
+## 📌 About Me:
+- 🌱 I’m currently learning **GraphQL and Web3**  
+- 👯 I’m looking to collaborate on **Node.js & Open Source Projects**  
+- 💬 Ask me about **JavaScript, APIs, and Backend Development**  
+- 📫 Reach me at **[your email]**  
+- 📝 Check out my [Portfolio](https://your-portfolio-link.com)  
+
+
+
+⭐ **If you like my work, consider giving my repositories a star!** 🚀
